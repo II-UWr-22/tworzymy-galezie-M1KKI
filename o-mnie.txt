@@ -1,1 +1,2 @@
 Mikolaj Komarnicki
+learn git branches :)
