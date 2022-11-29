@@ -1,0 +1,51 @@
+Linux osboxes 5.13.0-52-generic #59-Ubuntu SMP Wed Jun 15 20:17:13 UTC 2022 x86_64 x86_64 x86_64 GNU/Linux
+MemTotal:        4020428 kB
+MemFree:         1160776 kB
+MemAvailable:    2859952 kB
+Buffers:           79588 kB
+Cached:          1796996 kB
+SwapCached:            0 kB
+Active:           831412 kB
+Inactive:        1773800 kB
+Active(anon):       1828 kB
+Inactive(anon):   753032 kB
+Active(file):     829584 kB
+Inactive(file):  1020768 kB
+Unevictable:           0 kB
+Mlocked:               0 kB
+SwapTotal:       9277436 kB
+SwapFree:        9277436 kB
+Dirty:                 0 kB
+Writeback:             0 kB
+AnonPages:        728628 kB
+Mapped:           316840 kB
+Shmem:             37284 kB
+KReclaimable:     102780 kB
+Slab:             165928 kB
+SReclaimable:     102780 kB
+SUnreclaim:        63148 kB
+KernelStack:        7232 kB
+PageTables:        14164 kB
+NFS_Unstable:          0 kB
+Bounce:                0 kB
+WritebackTmp:          0 kB
+CommitLimit:    11287648 kB
+Committed_AS:    3878852 kB
+VmallocTotal:   34359738367 kB
+VmallocUsed:       40140 kB
+VmallocChunk:          0 kB
+Percpu:             1128 kB
+HardwareCorrupted:     0 kB
+AnonHugePages:      2048 kB
+ShmemHugePages:        0 kB
+ShmemPmdMapped:        0 kB
+FileHugePages:         0 kB
+FilePmdMapped:         0 kB
+HugePages_Total:       0
+HugePages_Free:        0
+HugePages_Rsvd:        0
+HugePages_Surp:        0
+Hugepagesize:       2048 kB
+Hugetlb:               0 kB
+DirectMap4k:      194496 kB
+DirectMap2M:     3999744 kB
